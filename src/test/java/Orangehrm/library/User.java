@@ -3,16 +3,13 @@ package Orangehrm.library;
 import Uttils.Apputils;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
-import org.openqa.selenium.support.ui.Wait;
-import org.openqa.selenium.support.ui.WebDriverWait;
 
-public class AdminPage extends Apputils {
+public class User extends Apputils {
 
 
-    public void addUser(String fullname,String username,String role,String value,String password) throws InterruptedException {
+    public void addUser(String fullname,String username,String role,String value,String password)  {
         driver.findElement(By.linkText("Admin")).click();
         driver.findElement(By.linkText("User Management")).click();
         driver.findElement(By.id("btnAdd")).click();
