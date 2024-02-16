@@ -6,7 +6,7 @@
       <class name="Orangehrm.testcases.LoginPageTestCases">
         <methods>
           <include name="Beforelogin"/>
-          <include name="loginTestInavalid"/>
+          <include name="forgotPassword"/>
           <include name="afterlogin"/>
         </methods>
       </class> <!-- Orangehrm.testcases.LoginPageTestCases -->

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-16T16:55:23 IST" name="Suite" finished-at="2024-02-16T16:55:44 IST" duration-ms="21042">
+    <groups>
+    </groups>
+    <test started-at="2024-02-16T16:55:23 IST" name="Test" finished-at="2024-02-16T16:55:44 IST" duration-ms="21042">
+      <class name="Orangehrm.testcases.LoginPageTestCases">
+        <test-method is-config="true" signature="Beforelogin()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@1e81f160]" started-at="2024-02-16T16:55:23 IST" name="Beforelogin" finished-at="2024-02-16T16:55:28 IST" duration-ms="4651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforelogin -->
+        <test-method signature="loginTestCase()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@1e81f160]" started-at="2024-02-16T16:55:28 IST" name="loginTestCase" finished-at="2024-02-16T16:55:31 IST" duration-ms="3027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestCase -->
+        <test-method is-config="true" signature="afterlogin()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@1e81f160]" started-at="2024-02-16T16:55:31 IST" name="afterlogin" finished-at="2024-02-16T16:55:32 IST" duration-ms="405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterlogin -->
+        <test-method is-config="true" signature="Beforelogin()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@1e81f160]" started-at="2024-02-16T16:55:32 IST" name="Beforelogin" finished-at="2024-02-16T16:55:34 IST" duration-ms="2628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforelogin -->
+        <test-method signature="loginTestCaseInavalid()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@1e81f160]" started-at="2024-02-16T16:55:34 IST" name="loginTestCaseInavalid" finished-at="2024-02-16T16:55:35 IST" duration-ms="1281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestCaseInavalid -->
+        <test-method is-config="true" signature="afterlogin()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@1e81f160]" started-at="2024-02-16T16:55:35 IST" name="afterlogin" finished-at="2024-02-16T16:55:36 IST" duration-ms="232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterlogin -->
+        <test-method is-config="true" signature="Beforelogin()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@1e81f160]" started-at="2024-02-16T16:55:36 IST" name="Beforelogin" finished-at="2024-02-16T16:55:38 IST" duration-ms="2485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforelogin -->
+        <test-method signature="loginWithEmptyUsername()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@1e81f160]" started-at="2024-02-16T16:55:38 IST" name="loginWithEmptyUsername" finished-at="2024-02-16T16:55:39 IST" duration-ms="932" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithEmptyUsername -->
+        <test-method is-config="true" signature="afterlogin()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@1e81f160]" started-at="2024-02-16T16:55:39 IST" name="afterlogin" finished-at="2024-02-16T16:55:40 IST" duration-ms="592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterlogin -->
+        <test-method is-config="true" signature="Beforelogin()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@1e81f160]" started-at="2024-02-16T16:55:40 IST" name="Beforelogin" finished-at="2024-02-16T16:55:42 IST" duration-ms="2719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforelogin -->
+        <test-method signature="loginWithEmptypassword()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@1e81f160]" started-at="2024-02-16T16:55:42 IST" name="loginWithEmptypassword" finished-at="2024-02-16T16:55:44 IST" duration-ms="1435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithEmptypassword -->
+        <test-method is-config="true" signature="afterlogin()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@1e81f160]" started-at="2024-02-16T16:55:44 IST" name="afterlogin" finished-at="2024-02-16T16:55:44 IST" duration-ms="211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterlogin -->
+      </class> <!-- Orangehrm.testcases.LoginPageTestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
