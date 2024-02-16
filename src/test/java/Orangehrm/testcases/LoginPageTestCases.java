@@ -91,7 +91,7 @@ public class LoginPageTestCases {
 		LoginPage lp = new LoginPage();
 		lp.forgotPassword("");
 		boolean result = lp.isErrorMessageDisplayedInForgotPassword();
-		Assert.assertEquals(result, true);
+        Assert.assertTrue(result);
 	}
 	
 	@AfterMethod
