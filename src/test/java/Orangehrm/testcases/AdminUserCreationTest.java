@@ -5,7 +5,7 @@ import Orangehrm.library.LoginPage;
 import Uttils.Apputils;
 
 public class AdminUserCreationTest {
-    public static void main(String[] args) throws InterruptedException {
+    public static void main(String[] args){
         Apputils.launchApp("http://orangehrm.qedgetech.com/");
         LoginPage lp = new LoginPage();
         lp.login("Admin", "Qedge123!@#");
