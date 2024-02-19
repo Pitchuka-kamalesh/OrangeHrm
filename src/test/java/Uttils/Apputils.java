@@ -16,7 +16,7 @@ public class Apputils {
 		WebDriverManager.firefoxdriver().setup();
 		FirefoxOptions options = new FirefoxOptions();
 		options.setHeadless(true);
-		driver = new FirefoxDriver();
+		driver = new FirefoxDriver(options);
 		driver.manage().deleteAllCookies();
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
