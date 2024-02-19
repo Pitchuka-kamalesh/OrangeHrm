@@ -1,5 +1,6 @@
 package Orangehrm.testcases;
 
+import Orangehrm.dataexcel.ExcelData;
 import Orangehrm.library.LoginPage;
 import Uttils.Apputils;
 import io.qameta.allure.*;
@@ -12,7 +13,7 @@ import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 @Listeners({Orangehrm.listners.TestListenerClass.class})
-public class LoginPageTestCases extends Apputils{
+public class LoginPageTestCases extends Apputils {
 
     public WebDriver driver;
 
@@ -22,7 +23,7 @@ public class LoginPageTestCases extends Apputils{
         Apputils app = new Apputils();
         driver = app.launchApp();
         driver.get("http://orangehrm.qedgetech.com/");
-        System.out.println(driver.getTitle());
+//        System.out.println(driver.getTitle());
 
     }
 
@@ -42,50 +43,23 @@ public class LoginPageTestCases extends Apputils{
 
     }
 
-    @Test
+    @Test(dataProvider = "logindata", dataProviderClass = ExcelData.class)
     @Description("Check the user able to login with invalid Crediantials.")
     @Severity(SeverityLevel.CRITICAL)
     @Step("Verfing the Login with invalid crediantials")
     @Epic("EP001")
     @Story("SP00-Login test Cases")
-    public void loginTestCaseInavalid() {
+    public void loginTestCaseInavalid(String Username
+            , String password) {
+        System.out.println(Username+"|"+password);
         LoginPage lp = new LoginPage(driver);
-        lp.login("Admin", "Qedge123@#");
+        lp.login(Username, password);
         boolean adminPageAvalible = lp.isErrorMessageDisplayed();
         AssertJUnit.assertTrue(adminPageAvalible);
 
 
     }
 
-
-    @Test
-    @Description("Check the user able to login with invalid Crediantials.")
-    @Severity(SeverityLevel.CRITICAL)
-    @Step("Verfing the Login with username empty and password valid ")
-    @Epic("EP001")
-    @Story("SP00-Login test Cases")
-    public void loginWithEmptyUsername() {
-        LoginPage lp = new LoginPage(driver);
-        lp.login(" ", "Qedge123@#");
-        boolean adminPageAvalible = lp.isErrorMessageDisplayed();
-        AssertJUnit.assertTrue(adminPageAvalible);
-
-    }
-
-
-    @Test
-    @Description("Check the user able to login with invalid Crediantials.")
-    @Severity(SeverityLevel.CRITICAL)
-    @Step("Verfing the Login with username valid and password empty ")
-    @Epic("EP001")
-    @Story("SP00-Login test Cases")
-    public void loginWithEmptypassword() {
-        LoginPage lp = new LoginPage(driver);
-        lp.login("Admin", " ");
-        boolean adminPageAvalible = lp.isErrorMessageDisplayed();
-        AssertJUnit.assertTrue(adminPageAvalible);
-
-    }
 
     @Test
     @Step("Entering Password reset page")

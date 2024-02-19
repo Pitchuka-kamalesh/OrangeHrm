@@ -21,7 +21,7 @@ public class LoginPage extends Apputils implements LoginPageLocators {
     public void login(String user, String pwd) {
 
         driver.findElement(LOGIN_USERNAME).sendKeys(user);
-        driver.findElement(LOGIN_LOGIN_BUTTON).sendKeys(pwd);
+        driver.findElement(LOGIN_PASSWORD).sendKeys(pwd);
         driver.findElement(LOGIN_LOGIN_BUTTON).click();
 
     }
