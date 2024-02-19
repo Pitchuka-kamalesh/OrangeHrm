@@ -13,7 +13,7 @@ public class Apputils {
 	public static ThreadLocal<WebDriver> tdriver = new ThreadLocal<WebDriver>();
 
 	public  WebDriver launchApp() {
-		WebDriverManager.chromedriver().setup();
+		WebDriverManager.chromiumdriver().setup();
 		driver = new ChromeDriver();
 		driver.manage().deleteAllCookies();
 		driver.manage().window().maximize();
