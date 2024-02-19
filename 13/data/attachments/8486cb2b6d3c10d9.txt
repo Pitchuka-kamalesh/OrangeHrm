@@ -1,0 +1,1 @@
+loginTestCase failed and screenshot taken!
