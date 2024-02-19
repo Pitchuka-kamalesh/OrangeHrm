@@ -13,8 +13,10 @@ public class Apputils {
 	public static ThreadLocal<WebDriver> tdriver = new ThreadLocal<WebDriver>();
 
 	public  WebDriver launchApp() {
-		WebDriverManager.chromedriver().setup();
-		driver = new ChromeDriver();
+		WebDriverManager.firefoxdriver().setup();
+		FirefoxOptions options = new FirefoxOptions();
+		options.setHeadless(true);
+		driver = new FirefoxDriver(options);
 		driver.manage().deleteAllCookies();
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
