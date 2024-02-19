@@ -4,6 +4,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxOptions;
 
 import java.util.concurrent.TimeUnit;
 
@@ -13,8 +14,10 @@ public class Apputils {
 	public static ThreadLocal<WebDriver> tdriver = new ThreadLocal<WebDriver>();
 
 	public  WebDriver launchApp() {
-		WebDriverManager.chromiumdriver().setup();
-		driver = new ChromeDriver();
+		WebDriverManager.firefoxdriver().setup();
+		FirefoxOptions options = new FirefoxOptions();
+		options.setHeadless(true);
+		driver = new FirefoxDriver(options);
 		driver.manage().deleteAllCookies();
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
