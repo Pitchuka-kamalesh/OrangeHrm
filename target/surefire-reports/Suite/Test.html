@@ -57,9 +57,9 @@ function toggleAllBoxes() {
 <tr>
 <td>Tests passed/Failed/Skipped:</td><td>6/1/0</td>
 </tr><tr>
-<td>Started on:</td><td>Mon Feb 19 20:14:33 IST 2024</td>
+<td>Started on:</td><td>Mon Feb 19 21:32:07 IST 2024</td>
 </tr>
-<tr><td>Total time:</td><td>67 seconds (67356 ms)</td>
+<tr><td>Total time:</td><td>121 seconds (121462 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -76,14 +76,13 @@ function toggleAllBoxes() {
 </tr>
 <tr>
 <td title='Orangehrm.testcases.LoginPageTestCases.loginTestCaseInavalid()'><b>loginTestCaseInavalid</b><br>Test class: Orangehrm.testcases.LoginPageTestCases<br>Parameters: Admin, Qedge123!@#</td>
-<td><div><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;css selector&quot;,&quot;selector&quot;:&quot;#spanMessage&quot;}
-  (Session info: chrome=121.0.6167.185)
+<td><div><pre>org.openqa.selenium.NoSuchElementException: Unable to locate element: #spanMessage
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
 System info: host: &apos;KAMALESH&apos;, ip: &apos;192.168.0.106&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;11.0.21&apos;
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.185, chrome: {chromedriverVersion: 121.0.6167.184 (057a8ae7deb..., userDataDir: C:\Users\kamal\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51633}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 581a152056e5250415ec38d4e5dd72db
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 122.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20240205133611, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 21696, moz:profile: C:\Users\kamal\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 68b8cb6e-0395-483a-a6d6-0cc7492e467b
 *** Element info: {Using=id, value=spanMessage}
 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
@@ -95,18 +94,17 @@ Session ID: 581a152056e5250415ec38d4e5dd72db
 	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)
 	at org.openqa.selenium.By$ById.findElement(By.java:188)
 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-	at Orangehrm.library.LoginPage.isErrorMessageDisplayed(LoginPage.java:58)
+	at Orangehrm.library.LoginPage.isErrorMessageDisplayed(LoginPage.java:66)
 	at Orangehrm.testcases.LoginPageTestCases.loginTestCaseInavalid(LoginPageTestCases.java:57)
 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
-... Removed 35 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1020021920", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace1020021920'><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;css selector&quot;,&quot;selector&quot;:&quot;#spanMessage&quot;}
-  (Session info: chrome=121.0.6167.185)
+... Removed 35 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace199076892", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace199076892'><pre>org.openqa.selenium.NoSuchElementException: Unable to locate element: #spanMessage
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
 System info: host: &apos;KAMALESH&apos;, ip: &apos;192.168.0.106&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;11.0.21&apos;
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.185, chrome: {chromedriverVersion: 121.0.6167.184 (057a8ae7deb..., userDataDir: C:\Users\kamal\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51633}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 581a152056e5250415ec38d4e5dd72db
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 122.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20240205133611, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 21696, moz:profile: C:\Users\kamal\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 68b8cb6e-0395-483a-a6d6-0cc7492e467b
 *** Element info: {Using=id, value=spanMessage}
 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
@@ -122,7 +120,7 @@ Session ID: 581a152056e5250415ec38d4e5dd72db
 	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)
 	at org.openqa.selenium.By$ById.findElement(By.java:188)
 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-	at Orangehrm.library.LoginPage.isErrorMessageDisplayed(LoginPage.java:58)
+	at Orangehrm.library.LoginPage.isErrorMessageDisplayed(LoginPage.java:66)
 	at Orangehrm.testcases.LoginPageTestCases.loginTestCaseInavalid(LoginPageTestCases.java:57)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
@@ -158,7 +156,7 @@ Session ID: 581a152056e5250415ec38d4e5dd72db
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
 </pre></div></td>
 <td>21</td>
-<td>Orangehrm.testcases.LoginPageTestCases@38320e34</td></tr>
+<td>Orangehrm.testcases.LoginPageTestCases@670ce331</td></tr>
 </table><p>
 <table width='100%' border='1' class='invocation-passed'>
 <tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
@@ -171,32 +169,32 @@ Session ID: 581a152056e5250415ec38d4e5dd72db
 <td title='Orangehrm.testcases.LoginPageTestCases.forgotPassword()'><b>forgotPassword</b><br>Test class: Orangehrm.testcases.LoginPageTestCases</td>
 <td></td>
 <td>1</td>
-<td>Orangehrm.testcases.LoginPageTestCases@38320e34</td></tr>
+<td>Orangehrm.testcases.LoginPageTestCases@670ce331</td></tr>
 <tr>
 <td title='Orangehrm.testcases.LoginPageTestCases.loginTestCase()'><b>loginTestCase</b><br>Test class: Orangehrm.testcases.LoginPageTestCases</td>
 <td></td>
-<td>3</td>
-<td>Orangehrm.testcases.LoginPageTestCases@38320e34</td></tr>
+<td>23</td>
+<td>Orangehrm.testcases.LoginPageTestCases@670ce331</td></tr>
 <tr>
 <td title='Orangehrm.testcases.LoginPageTestCases.loginTestCaseInavalid()'><b>loginTestCaseInavalid</b><br>Test class: Orangehrm.testcases.LoginPageTestCases<br>Parameters: Admin,  </td>
 <td></td>
 <td>1</td>
-<td>Orangehrm.testcases.LoginPageTestCases@38320e34</td></tr>
+<td>Orangehrm.testcases.LoginPageTestCases@670ce331</td></tr>
 <tr>
 <td title='Orangehrm.testcases.LoginPageTestCases.loginTestCaseInavalid()'><b>loginTestCaseInavalid</b><br>Test class: Orangehrm.testcases.LoginPageTestCases<br>Parameters:  , password</td>
 <td></td>
 <td>0</td>
-<td>Orangehrm.testcases.LoginPageTestCases@38320e34</td></tr>
+<td>Orangehrm.testcases.LoginPageTestCases@670ce331</td></tr>
 <tr>
 <td title='Orangehrm.testcases.LoginPageTestCases.loginTestCaseInavalid()'><b>loginTestCaseInavalid</b><br>Test class: Orangehrm.testcases.LoginPageTestCases<br>Parameters:  ,  </td>
 <td></td>
 <td>1</td>
-<td>Orangehrm.testcases.LoginPageTestCases@38320e34</td></tr>
+<td>Orangehrm.testcases.LoginPageTestCases@670ce331</td></tr>
 <tr>
 <td title='Orangehrm.testcases.LoginPageTestCases.loginTestCaseInavalid()'><b>loginTestCaseInavalid</b><br>Test class: Orangehrm.testcases.LoginPageTestCases<br>Parameters: Hello, Hello</td>
 <td></td>
-<td>0</td>
-<td>Orangehrm.testcases.LoginPageTestCases@38320e34</td></tr>
+<td>1</td>
+<td>Orangehrm.testcases.LoginPageTestCases@670ce331</td></tr>
 </table><p>
 </body>
 </html>

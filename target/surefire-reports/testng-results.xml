@@ -2,40 +2,40 @@
 <testng-results ignored="0" total="7" passed="6" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-19T20:14:33 IST" name="Suite" finished-at="2024-02-19T20:15:41 IST" duration-ms="67356">
+  <suite started-at="2024-02-19T21:32:07 IST" name="Suite" finished-at="2024-02-19T21:34:09 IST" duration-ms="121462">
     <groups>
     </groups>
-    <test started-at="2024-02-19T20:14:33 IST" name="Test" finished-at="2024-02-19T20:15:41 IST" duration-ms="67356">
+    <test started-at="2024-02-19T21:32:07 IST" name="Test" finished-at="2024-02-19T21:34:09 IST" duration-ms="121462">
       <class name="Orangehrm.testcases.LoginPageTestCases">
-        <test-method is-config="true" signature="beforelogin()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@38320e34]" started-at="2024-02-19T20:14:34 IST" name="beforelogin" finished-at="2024-02-19T20:14:42 IST" duration-ms="8094" status="PASS">
+        <test-method is-config="true" signature="beforelogin()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@670ce331]" started-at="2024-02-19T21:32:08 IST" name="beforelogin" finished-at="2024-02-19T21:32:17 IST" duration-ms="9181" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforelogin -->
-        <test-method signature="forgotPassword()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@38320e34]" started-at="2024-02-19T20:14:43 IST" name="forgotPassword" finished-at="2024-02-19T20:14:44 IST" duration-ms="1559" status="PASS">
+        <test-method signature="forgotPassword()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@670ce331]" started-at="2024-02-19T21:32:17 IST" name="forgotPassword" finished-at="2024-02-19T21:32:19 IST" duration-ms="1881" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- forgotPassword -->
-        <test-method is-config="true" signature="afterlogin()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@38320e34]" started-at="2024-02-19T20:14:44 IST" name="afterlogin" finished-at="2024-02-19T20:14:45 IST" duration-ms="406" status="PASS">
+        <test-method is-config="true" signature="afterlogin()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@670ce331]" started-at="2024-02-19T21:32:19 IST" name="afterlogin" finished-at="2024-02-19T21:32:22 IST" duration-ms="2657" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterlogin -->
-        <test-method is-config="true" signature="beforelogin()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@38320e34]" started-at="2024-02-19T20:14:45 IST" name="beforelogin" finished-at="2024-02-19T20:14:48 IST" duration-ms="3140" status="PASS">
+        <test-method is-config="true" signature="beforelogin()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@670ce331]" started-at="2024-02-19T21:32:22 IST" name="beforelogin" finished-at="2024-02-19T21:32:28 IST" duration-ms="6009" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforelogin -->
-        <test-method signature="loginTestCase()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@38320e34]" started-at="2024-02-19T20:14:48 IST" name="loginTestCase" finished-at="2024-02-19T20:14:51 IST" duration-ms="3070" status="PASS">
+        <test-method signature="loginTestCase()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@670ce331]" started-at="2024-02-19T21:32:28 IST" name="loginTestCase" finished-at="2024-02-19T21:32:51 IST" duration-ms="23381" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTestCase -->
-        <test-method is-config="true" signature="afterlogin()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@38320e34]" started-at="2024-02-19T20:14:51 IST" name="afterlogin" finished-at="2024-02-19T20:14:51 IST" duration-ms="266" status="PASS">
+        <test-method is-config="true" signature="afterlogin()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@670ce331]" started-at="2024-02-19T21:32:51 IST" name="afterlogin" finished-at="2024-02-19T21:32:53 IST" duration-ms="2079" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterlogin -->
-        <test-method is-config="true" signature="beforelogin()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@38320e34]" started-at="2024-02-19T20:14:55 IST" name="beforelogin" finished-at="2024-02-19T20:14:58 IST" duration-ms="2888" status="PASS">
+        <test-method is-config="true" signature="beforelogin()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@670ce331]" started-at="2024-02-19T21:32:56 IST" name="beforelogin" finished-at="2024-02-19T21:33:03 IST" duration-ms="6741" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforelogin -->
-        <test-method signature="loginTestCaseInavalid(java.lang.String, java.lang.String)[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@38320e34]" started-at="2024-02-19T20:14:58 IST" name="loginTestCaseInavalid" data-provider="logindata" finished-at="2024-02-19T20:14:59 IST" duration-ms="1256" status="PASS">
+        <test-method signature="loginTestCaseInavalid(java.lang.String, java.lang.String)[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@670ce331]" started-at="2024-02-19T21:33:03 IST" name="loginTestCaseInavalid" data-provider="logindata" finished-at="2024-02-19T21:33:04 IST" duration-ms="1198" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -51,15 +51,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTestCaseInavalid -->
-        <test-method is-config="true" signature="afterlogin()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@38320e34]" started-at="2024-02-19T20:14:59 IST" name="afterlogin" finished-at="2024-02-19T20:15:00 IST" duration-ms="289" status="PASS">
+        <test-method is-config="true" signature="afterlogin()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@670ce331]" started-at="2024-02-19T21:33:04 IST" name="afterlogin" finished-at="2024-02-19T21:33:07 IST" duration-ms="2439" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterlogin -->
-        <test-method is-config="true" signature="beforelogin()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@38320e34]" started-at="2024-02-19T20:15:00 IST" name="beforelogin" finished-at="2024-02-19T20:15:03 IST" duration-ms="3577" status="PASS">
+        <test-method is-config="true" signature="beforelogin()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@670ce331]" started-at="2024-02-19T21:33:07 IST" name="beforelogin" finished-at="2024-02-19T21:33:14 IST" duration-ms="6767" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforelogin -->
-        <test-method signature="loginTestCaseInavalid(java.lang.String, java.lang.String)[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@38320e34]" started-at="2024-02-19T20:15:03 IST" name="loginTestCaseInavalid" data-provider="logindata" finished-at="2024-02-19T20:15:04 IST" duration-ms="931" status="PASS">
+        <test-method signature="loginTestCaseInavalid(java.lang.String, java.lang.String)[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@670ce331]" started-at="2024-02-19T21:33:14 IST" name="loginTestCaseInavalid" data-provider="logindata" finished-at="2024-02-19T21:33:14 IST" duration-ms="850" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -75,15 +75,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTestCaseInavalid -->
-        <test-method is-config="true" signature="afterlogin()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@38320e34]" started-at="2024-02-19T20:15:04 IST" name="afterlogin" finished-at="2024-02-19T20:15:05 IST" duration-ms="435" status="PASS">
+        <test-method is-config="true" signature="afterlogin()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@670ce331]" started-at="2024-02-19T21:33:14 IST" name="afterlogin" finished-at="2024-02-19T21:33:17 IST" duration-ms="2258" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterlogin -->
-        <test-method is-config="true" signature="beforelogin()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@38320e34]" started-at="2024-02-19T20:15:05 IST" name="beforelogin" finished-at="2024-02-19T20:15:09 IST" duration-ms="4074" status="PASS">
+        <test-method is-config="true" signature="beforelogin()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@670ce331]" started-at="2024-02-19T21:33:17 IST" name="beforelogin" finished-at="2024-02-19T21:33:22 IST" duration-ms="5811" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforelogin -->
-        <test-method signature="loginTestCaseInavalid(java.lang.String, java.lang.String)[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@38320e34]" started-at="2024-02-19T20:15:09 IST" name="loginTestCaseInavalid" data-provider="logindata" finished-at="2024-02-19T20:15:10 IST" duration-ms="1001" status="PASS">
+        <test-method signature="loginTestCaseInavalid(java.lang.String, java.lang.String)[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@670ce331]" started-at="2024-02-19T21:33:22 IST" name="loginTestCaseInavalid" data-provider="logindata" finished-at="2024-02-19T21:33:24 IST" duration-ms="1220" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -99,15 +99,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTestCaseInavalid -->
-        <test-method is-config="true" signature="afterlogin()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@38320e34]" started-at="2024-02-19T20:15:10 IST" name="afterlogin" finished-at="2024-02-19T20:15:10 IST" duration-ms="286" status="PASS">
+        <test-method is-config="true" signature="afterlogin()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@670ce331]" started-at="2024-02-19T21:33:24 IST" name="afterlogin" finished-at="2024-02-19T21:33:26 IST" duration-ms="1963" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterlogin -->
-        <test-method is-config="true" signature="beforelogin()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@38320e34]" started-at="2024-02-19T20:15:10 IST" name="beforelogin" finished-at="2024-02-19T20:15:14 IST" duration-ms="4163" status="PASS">
+        <test-method is-config="true" signature="beforelogin()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@670ce331]" started-at="2024-02-19T21:33:26 IST" name="beforelogin" finished-at="2024-02-19T21:33:34 IST" duration-ms="8310" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforelogin -->
-        <test-method signature="loginTestCaseInavalid(java.lang.String, java.lang.String)[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@38320e34]" started-at="2024-02-19T20:15:14 IST" name="loginTestCaseInavalid" data-provider="logindata" finished-at="2024-02-19T20:15:15 IST" duration-ms="861" status="PASS">
+        <test-method signature="loginTestCaseInavalid(java.lang.String, java.lang.String)[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@670ce331]" started-at="2024-02-19T21:33:34 IST" name="loginTestCaseInavalid" data-provider="logindata" finished-at="2024-02-19T21:33:35 IST" duration-ms="1034" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -123,15 +123,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTestCaseInavalid -->
-        <test-method is-config="true" signature="afterlogin()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@38320e34]" started-at="2024-02-19T20:15:15 IST" name="afterlogin" finished-at="2024-02-19T20:15:15 IST" duration-ms="272" status="PASS">
+        <test-method is-config="true" signature="afterlogin()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@670ce331]" started-at="2024-02-19T21:33:35 IST" name="afterlogin" finished-at="2024-02-19T21:33:37 IST" duration-ms="1754" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterlogin -->
-        <test-method is-config="true" signature="beforelogin()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@38320e34]" started-at="2024-02-19T20:15:15 IST" name="beforelogin" finished-at="2024-02-19T20:15:19 IST" duration-ms="3540" status="PASS">
+        <test-method is-config="true" signature="beforelogin()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@670ce331]" started-at="2024-02-19T21:33:37 IST" name="beforelogin" finished-at="2024-02-19T21:33:45 IST" duration-ms="8601" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforelogin -->
-        <test-method signature="loginTestCaseInavalid(java.lang.String, java.lang.String)[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@38320e34]" started-at="2024-02-19T20:15:19 IST" name="loginTestCaseInavalid" data-provider="logindata" finished-at="2024-02-19T20:15:40 IST" duration-ms="21438" status="FAIL">
+        <test-method signature="loginTestCaseInavalid(java.lang.String, java.lang.String)[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@670ce331]" started-at="2024-02-19T21:33:45 IST" name="loginTestCaseInavalid" data-provider="logindata" finished-at="2024-02-19T21:34:07 IST" duration-ms="21736" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -146,25 +146,23 @@
           </params>
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
-              <![CDATA[no such element: Unable to locate element: {"method":"css selector","selector":"#spanMessage"}
-  (Session info: chrome=121.0.6167.185)
+              <![CDATA[Unable to locate element: #spanMessage
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'KAMALESH', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.185, chrome: {chromedriverVersion: 121.0.6167.184 (057a8ae7deb..., userDataDir: C:\Users\kamal\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51633}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 581a152056e5250415ec38d4e5dd72db
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 122.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20240205133611, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 21696, moz:profile: C:\Users\kamal\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 68b8cb6e-0395-483a-a6d6-0cc7492e467b
 *** Element info: {Using=id, value=spanMessage}]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#spanMessage"}
-  (Session info: chrome=121.0.6167.185)
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: #spanMessage
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'KAMALESH', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.185, chrome: {chromedriverVersion: 121.0.6167.184 (057a8ae7deb..., userDataDir: C:\Users\kamal\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51633}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 581a152056e5250415ec38d4e5dd72db
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 122.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20240205133611, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 21696, moz:profile: C:\Users\kamal\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 68b8cb6e-0395-483a-a6d6-0cc7492e467b
 *** Element info: {Using=id, value=spanMessage}
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
@@ -180,7 +178,7 @@ at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:3
 at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)
 at org.openqa.selenium.By$ById.findElement(By.java:188)
 at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-at Orangehrm.library.LoginPage.isErrorMessageDisplayed(LoginPage.java:58)
+at Orangehrm.library.LoginPage.isErrorMessageDisplayed(LoginPage.java:66)
 at Orangehrm.testcases.LoginPageTestCases.loginTestCaseInavalid(LoginPageTestCases.java:57)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
@@ -220,7 +218,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTestCaseInavalid -->
-        <test-method is-config="true" signature="afterlogin()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@38320e34]" started-at="2024-02-19T20:15:40 IST" name="afterlogin" finished-at="2024-02-19T20:15:41 IST" duration-ms="337" status="PASS">
+        <test-method is-config="true" signature="afterlogin()[pri:0, instance:Orangehrm.testcases.LoginPageTestCases@670ce331]" started-at="2024-02-19T21:34:07 IST" name="afterlogin" finished-at="2024-02-19T21:34:09 IST" duration-ms="1608" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterlogin -->

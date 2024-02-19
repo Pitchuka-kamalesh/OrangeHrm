@@ -8,7 +8,7 @@ public class EmployeeModuleTestcase {
 
     public static void main(String[] args) {
 //        Apputils.launchApp("http://orangehrm.qedgetech.com");
-        LoginPage lp = new LoginPage(Apputils.getDriver());
+        LoginPage lp = new LoginPage();
         lp.login("Admin", "Qedge123!@#");
         EmployeePage ep = new EmployeePage();
         ep.addEmployee("Hello","World");

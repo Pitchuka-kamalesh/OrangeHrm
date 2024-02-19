@@ -30,11 +30,11 @@ public class LoginPageTestCases extends Apputils {
     @Test
     @Description("Check the user able to login with valid Crediantials.")
     @Severity(SeverityLevel.BLOCKER)
-    @Step("Verfing the Login with invalid crediantials")
+    @Step("Verfing the Login with valid crediantials")
     @Epic("EP001")
     @Story("SP00-Login test Cases")
     public void loginTestCase() {
-        LoginPage lp = new LoginPage(driver);
+        LoginPage lp = new LoginPage();
         lp.login("Admin", "Qedge123!@#");
         boolean adminPageAvalible = lp.isAdminModuleDisplayed();
         lp.logout();
@@ -52,7 +52,7 @@ public class LoginPageTestCases extends Apputils {
     public void loginTestCaseInavalid(String Username
             , String password) {
         System.out.println(Username+"|"+password);
-        LoginPage lp = new LoginPage(driver);
+        LoginPage lp = new LoginPage();
         lp.login(Username, password);
         boolean adminPageAvalible = lp.isErrorMessageDisplayed();
         AssertJUnit.assertTrue(adminPageAvalible);
@@ -64,7 +64,7 @@ public class LoginPageTestCases extends Apputils {
     @Test
     @Step("Entering Password reset page")
     public void forgotPassword() {
-        LoginPage lp = new LoginPage(driver);
+        LoginPage lp = new LoginPage();
         lp.forgotPassword("");
         boolean result = lp.isErrorMessageDisplayedInForgotPassword();
         Assert.assertTrue(result);
