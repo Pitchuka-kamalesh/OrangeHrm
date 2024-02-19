@@ -1,14 +1,9 @@
 package Uttils;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-import org.apache.commons.io.FileUtils;
-import org.openqa.selenium.OutputType;
-import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
 
-import java.io.File;
-import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 
 public class Apputils {
@@ -17,8 +12,8 @@ public class Apputils {
 	public static ThreadLocal<WebDriver> tdriver = new ThreadLocal<WebDriver>();
 
 	public  WebDriver launchApp() {
-		WebDriverManager.chromedriver().setup();
-		driver = new ChromeDriver();
+		WebDriverManager.firefoxdriver().setup();
+		driver = new FirefoxDriver();
 		driver.manage().deleteAllCookies();
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
@@ -34,16 +29,16 @@ public class Apputils {
 		getDriver().close();
 
 	}
-	public static String getScreenshot() {
-		File src = ((TakesScreenshot) getDriver()).getScreenshotAs(OutputType.FILE);
-		String path = System.getProperty("user.dir") + "/screenshots/" + System.currentTimeMillis() + ".png";
-		File destination = new File(path);
-		try {
-			FileUtils.copyFile(src, destination);
-		} catch (IOException e) {
-			System.out.println("Capture Failed " + e.getMessage());
-		}
-		return path;
-	}
+//	public static String getScreenshot() {
+//		File src = ((TakesScreenshot) getDriver()).getScreenshotAs(OutputType.FILE);
+//		String path = System.getProperty("user.dir") + "/screenshots/" + System.currentTimeMillis() + ".png";
+//		File destination = new File(path);
+//		try {
+//			FileUtils.copyFile(src, destination);
+//		} catch (IOException e) {
+//			System.out.println("Capture Failed " + e.getMessage());
+//		}
+//		return path;
+//	}
 
 }
