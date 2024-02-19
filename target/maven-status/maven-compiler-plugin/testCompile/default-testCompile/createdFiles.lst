@@ -1,8 +1,12 @@
+Uttils\Apputils.class
+Orangehrm\dataexcel\ExcelData.class
+Uttils\ExcelUtillsRead.class
 Orangehrm\testcases\LoginPageTestCases.class
 Orangehrm\testcases\AdminUserCreationTest.class
-Uttils\Apputils.class
 Orangehrm\library\User.class
 Orangehrm\listners\TestListenerClass.class
 Orangehrm\library\EmployeePage.class
+Orangehrm\locators\LoginPageLocators.class
 Orangehrm\library\LoginPage.class
 Orangehrm\testcases\EmployeeModuleTestcase.class
+Uttils\ExcelUtilsDemo.class
