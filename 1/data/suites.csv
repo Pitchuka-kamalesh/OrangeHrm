@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Mon Feb 19 05:43:49 GMT 2024","Mon Feb 19 05:43:52 GMT 2024","2724","Default Suite","OrangeHrm","Orangehrm.testcases.LoginPageTestCases","Orangehrm.testcases.LoginPageTestCases","forgotPassword","forgotPassword",""
