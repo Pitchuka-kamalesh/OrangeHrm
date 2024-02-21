@@ -1,0 +1,8 @@
+18:56:23.766 [main] INFO  - Instate the WebBrowser
+18:56:35.126 [main] INFO  - Start the WebBrowser
+18:56:35.176 [main] INFO  - Maximize the WebBrowse
+18:56:35.208 [main] INFO  - Entering the ORANGE HRM Page
+18:56:37.038 [main] INFO  - Entering the username and password 
+18:56:38.699 [main] INFO  - Checking Admin module is present
+18:56:39.063 [main] INFO  - Logging out from the Orange HRM
+18:56:40.900 [main] INFO  - Closed the Browser

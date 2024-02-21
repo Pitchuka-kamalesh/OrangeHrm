@@ -8,7 +8,7 @@ import java.util.List;
 
 public class EmployeePage extends Apputils {
 
-    static String id = null;
+    static java.lang.String id = null;
 
     public void addEmployee(String fname, String lname) {
 

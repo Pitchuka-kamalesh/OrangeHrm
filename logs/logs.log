@@ -1,0 +1,446 @@
+[INFO ] 2024-02-20 19:25:13.352 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-20 19:25:22.141 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-20 19:25:22.169 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-20 19:25:22.198 [main] Apputils - Entering the ORANGE HRM Page
+[INFO ] 2024-02-20 19:25:24.400 [main] Apputils - Entering the username and password 
+[INFO ] 2024-02-20 19:25:26.324 [main] Apputils - Checking Admin module is present
+[INFO ] 2024-02-20 19:25:26.594 [main] Apputils - Logging out from the Orange HRM
+[INFO ] 2024-02-20 19:25:30.115 [main] Apputils - Closed the Browser
+[INFO ] 2024-02-20 19:29:51.280 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-20 19:29:59.085 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-20 19:29:59.116 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-20 19:29:59.145 [main] Apputils - Entering the ORANGE HRM Page
+[INFO ] 2024-02-20 19:30:01.481 [main] Apputils - Entering the username and password 
+[INFO ] 2024-02-20 19:30:03.320 [main] Apputils - Checking Admin module is present
+[INFO ] 2024-02-20 19:30:03.690 [main] Apputils - Logging out from the Orange HRM
+[INFO ] 2024-02-20 19:30:07.439 [main] Apputils - Closed the Browser
+[INFO ] 2024-02-20 19:32:22.246 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-20 19:32:30.220 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-20 19:32:30.236 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-20 19:32:30.302 [main] Apputils - Entering the ORANGE HRM Page
+[INFO ] 2024-02-20 19:32:32.943 [main] Apputils - Entering the username and password 
+[INFO ] 2024-02-20 19:32:34.521 [main] Apputils - Checking Admin module is present
+[INFO ] 2024-02-20 19:32:34.748 [main] Apputils - Logging out from the Orange HRM
+[INFO ] 2024-02-20 19:32:39.669 [main] Apputils - Closed the Browser
+[INFO ] 2024-02-20 19:34:08.411 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-20 19:34:15.870 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-20 19:34:15.900 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-20 19:34:15.930 [main] Apputils - Entering the ORANGE HRM Page
+[INFO ] 2024-02-20 19:34:17.864 [main] Apputils - Entering the username and password 
+[INFO ] 2024-02-20 19:34:20.804 [main] Apputils - Checking Admin module is present
+[INFO ] 2024-02-20 19:34:21.063 [main] Apputils - Logging out from the Orange HRM
+[INFO ] 2024-02-20 19:34:25.411 [main] Apputils - Closed the Browser
+[INFO ] 2024-02-20 19:36:56.226 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-20 19:37:04.420 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-20 19:37:04.454 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-20 19:37:04.490 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[INFO ] 2024-02-20 19:37:07.062 [main] LoginPageTestCases - Entering the username and password 
+[INFO ] 2024-02-20 19:37:08.645 [main] LoginPageTestCases - Checking Admin module is present
+[INFO ] 2024-02-20 19:37:08.896 [main] LoginPageTestCases - Logging out from the Orange HRM
+[INFO ] 2024-02-20 19:37:12.580 [main] Apputils - Closed the Browser
+[INFO ] 2024-02-20 19:43:31.619 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-20 19:43:40.411 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-20 19:43:40.439 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-20 19:43:40.462 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[INFO ] 2024-02-20 19:43:43.626 [main] LoginPageTestCases - Entering the username and password 
+[INFO ] 2024-02-20 19:43:43.650 [main] LoginPage - Admin|Qedge123!@#values into text box
+[INFO ] 2024-02-20 19:43:44.005 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-20 19:43:45.192 [main] LoginPageTestCases - Checking Admin module is present
+[INFO ] 2024-02-20 19:43:45.438 [main] LoginPageTestCases - Logging out from the Orange HRM
+[INFO ] 2024-02-20 19:43:45.438 [main] LoginPage - We are waiting for 1 second to load the HomePage
+[ERROR] 2024-02-20 19:44:07.375 [main] LoginPage - null
+[INFO ] 2024-02-20 19:44:08.901 [main] Apputils - Closed the Browser
+[INFO ] 2024-02-20 19:46:08.551 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-20 19:46:19.702 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-20 19:46:19.718 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-20 19:46:19.749 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[INFO ] 2024-02-20 19:46:21.574 [main] LoginPageTestCases - Entering the username and password 
+[INFO ] 2024-02-20 19:46:21.602 [main] LoginPage - Admin|Qedge123!@#values into text box
+[INFO ] 2024-02-20 19:46:21.933 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-20 19:46:23.032 [main] LoginPageTestCases - Checking Admin module is present
+[INFO ] 2024-02-20 19:46:23.329 [main] LoginPageTestCases - Logging out from the Orange HRM
+[INFO ] 2024-02-20 19:46:23.329 [main] LoginPage - We are waiting for 1 second to load the HomePage
+[ERROR] 2024-02-20 19:46:44.115 [main] LoginPage - Unable to locate element: Logout
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KAMALESH', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 122.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20240205133611, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 11960, moz:profile: C:\Users\kamal\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 28861037-02d6-4cdf-98f6-42e9537af409
+*** Element info: {Using=link text, value=Logout}
+[INFO ] 2024-02-20 19:46:45.600 [main] Apputils - Closed the Browser
+[DEBUG] 2024-02-20 19:56:38.038 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-02-20 19:56:38.052 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-02-20 20:07:38.930 [main] Apputils - Instate the WebBrowser
+[DEBUG] 2024-02-20 20:07:44.951 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-02-20 20:07:44.958 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-02-20 20:07:47.657 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-02-20 20:07:47.665 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-02-20 20:10:12.494 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-20 20:10:20.968 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-20 20:10:20.998 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-20 20:10:21.026 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[DEBUG] 2024-02-20 20:10:25.671 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-02-20 20:10:25.681 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-02-20 20:10:27.968 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-20 20:10:33.113 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-20 20:10:33.131 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-20 20:10:33.160 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[INFO ] 2024-02-20 20:10:34.255 [main] LoginPageTestCases - Entering the username and password 
+[INFO ] 2024-02-20 20:10:34.285 [main] LoginPage - Admin|Qedge123!@#values into text box
+[INFO ] 2024-02-20 20:10:34.790 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-20 20:10:38.095 [main] LoginPageTestCases - Checking Admin module is present
+[INFO ] 2024-02-20 20:10:38.373 [main] LoginPageTestCases - Logging out from the Orange HRM
+[INFO ] 2024-02-20 20:10:38.374 [main] LoginPage - We are waiting for 5 second to load the HomePage
+[INFO ] 2024-02-20 20:10:44.258 [main] LoginPage - Click on Logout
+[DEBUG] 2024-02-20 20:10:44.301 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-02-20 20:10:44.303 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-02-20 20:10:44.368 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-20 20:10:50.366 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-20 20:10:50.388 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-20 20:10:50.419 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[INFO ] 2024-02-20 20:10:53.128 [main] LoginPage - Admin| values into text box
+[INFO ] 2024-02-20 20:10:53.736 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-20 20:10:54.967 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-20 20:11:01.838 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-20 20:11:01.856 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-20 20:11:01.885 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[INFO ] 2024-02-20 20:11:03.606 [main] LoginPage -  |passwordvalues into text box
+[INFO ] 2024-02-20 20:11:04.442 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-20 20:11:05.409 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-20 20:11:12.745 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-20 20:11:12.768 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-20 20:11:12.799 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[INFO ] 2024-02-20 20:11:14.647 [main] LoginPage -  | values into text box
+[INFO ] 2024-02-20 20:11:15.167 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-20 20:11:16.214 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-20 20:11:27.342 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-20 20:11:27.381 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-20 20:11:27.419 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[INFO ] 2024-02-20 20:11:28.729 [main] LoginPage - Hello|Hellovalues into text box
+[INFO ] 2024-02-20 20:11:29.428 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-20 20:11:30.125 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-20 20:11:39.923 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-20 20:11:39.936 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-20 20:11:39.967 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[INFO ] 2024-02-20 20:11:41.272 [main] LoginPage - admin|passwordvalues into text box
+[INFO ] 2024-02-20 20:11:43.006 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-20 20:11:51.547 [main] Apputils - Closed the Browser
+[DEBUG] 2024-02-20 20:15:37.522 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-02-20 20:15:37.540 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-02-20 20:15:39.793 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-20 20:15:47.541 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-20 20:15:47.565 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-20 20:15:47.592 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[INFO ] 2024-02-20 20:15:49.555 [main] LoginPage - Admin| values into text box
+[INFO ] 2024-02-20 20:15:49.952 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-20 20:15:51.023 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-20 20:15:55.851 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-20 20:15:55.873 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-20 20:15:55.902 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[INFO ] 2024-02-20 20:15:56.910 [main] LoginPage -  |passwordvalues into text box
+[INFO ] 2024-02-20 20:15:57.381 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-20 20:15:58.244 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-20 20:16:03.186 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-20 20:16:03.202 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-20 20:16:03.233 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[INFO ] 2024-02-20 20:16:04.159 [main] LoginPage -  | values into text box
+[INFO ] 2024-02-20 20:16:04.506 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-20 20:16:05.151 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-20 20:16:10.305 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-20 20:16:10.314 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-20 20:16:10.342 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[INFO ] 2024-02-20 20:16:11.295 [main] LoginPage - Hello|Hellovalues into text box
+[INFO ] 2024-02-20 20:16:11.612 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-20 20:16:12.137 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-20 20:16:18.170 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-20 20:16:18.184 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-20 20:16:18.211 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[INFO ] 2024-02-20 20:16:19.336 [main] LoginPage - admin|passwordvalues into text box
+[INFO ] 2024-02-20 20:16:19.821 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-20 20:16:22.938 [main] Apputils - Closed the Browser
+[DEBUG] 2024-02-20 20:25:27.591 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-02-20 20:25:27.609 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-02-20 20:25:30.075 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-20 20:25:38.087 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-20 20:25:38.109 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-20 20:25:38.137 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[INFO ] 2024-02-20 20:25:41.954 [main] LoginPage - Admin| values into text box
+[INFO ] 2024-02-20 20:25:42.402 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-20 20:25:47.085 [main] Apputils - Closed the Browser
+[INFO ] 2024-02-20 20:25:47.088 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-20 20:25:54.854 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-20 20:25:54.875 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-20 20:25:54.905 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[INFO ] 2024-02-20 20:25:56.212 [main] LoginPage -  |passwordvalues into text box
+[INFO ] 2024-02-20 20:25:56.596 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-20 20:26:00.288 [main] Apputils - Closed the Browser
+[INFO ] 2024-02-20 20:26:00.293 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-20 20:26:05.829 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-20 20:26:05.844 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-20 20:26:05.874 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[INFO ] 2024-02-20 20:26:06.834 [main] LoginPage -  | values into text box
+[INFO ] 2024-02-20 20:26:07.292 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-20 20:26:10.062 [main] Apputils - Closed the Browser
+[INFO ] 2024-02-20 20:26:10.065 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-20 20:26:15.098 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-20 20:26:15.115 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-20 20:26:15.146 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[INFO ] 2024-02-20 20:26:16.144 [main] LoginPage - Hello|Hellovalues into text box
+[INFO ] 2024-02-20 20:26:16.413 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-20 20:26:19.348 [main] Apputils - Closed the Browser
+[INFO ] 2024-02-20 20:26:19.351 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-20 20:26:26.262 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-20 20:26:26.276 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-20 20:26:26.304 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[INFO ] 2024-02-20 20:26:27.287 [main] LoginPage - admin|passwordvalues into text box
+[INFO ] 2024-02-20 20:26:27.536 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-20 20:26:29.877 [main] Apputils - Closed the Browser
+[DEBUG] 2024-02-20 20:29:06.921 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-02-20 20:29:06.945 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-02-20 20:29:09.375 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-20 20:29:17.263 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-20 20:29:17.289 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-20 20:29:17.318 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[INFO ] 2024-02-20 20:29:19.200 [main] LoginPage - Admin| values into text box
+[INFO ] 2024-02-20 20:29:19.564 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-20 20:29:23.381 [main] Apputils - Closed the Browser
+[INFO ] 2024-02-20 20:29:23.385 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-20 20:29:28.678 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-20 20:29:28.686 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-20 20:29:28.718 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[INFO ] 2024-02-20 20:29:29.942 [main] LoginPage -  |passwordvalues into text box
+[INFO ] 2024-02-20 20:29:30.255 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-20 20:29:33.245 [main] Apputils - Closed the Browser
+[INFO ] 2024-02-20 20:29:33.251 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-20 20:29:38.010 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-20 20:29:38.031 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-20 20:29:38.061 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[INFO ] 2024-02-20 20:29:38.926 [main] LoginPage -  | values into text box
+[INFO ] 2024-02-20 20:29:39.291 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-20 20:29:42.501 [main] Apputils - Closed the Browser
+[INFO ] 2024-02-20 20:29:42.504 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-20 20:29:47.421 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-20 20:29:47.440 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-20 20:29:47.467 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[INFO ] 2024-02-20 20:29:48.384 [main] LoginPage - Hello|Hellovalues into text box
+[INFO ] 2024-02-20 20:29:48.684 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-20 20:29:51.472 [main] Apputils - Closed the Browser
+[INFO ] 2024-02-20 20:29:51.476 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-20 20:29:56.686 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-20 20:29:56.699 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-20 20:29:56.730 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[INFO ] 2024-02-20 20:29:57.685 [main] LoginPage - admin|passwordvalues into text box
+[INFO ] 2024-02-20 20:29:58.010 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-20 20:30:02.265 [main] Apputils - Closed the Browser
+[DEBUG] 2024-02-20 20:31:53.671 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-02-20 20:31:53.692 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-02-20 20:31:55.995 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-20 20:32:03.285 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-20 20:32:03.310 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-20 20:32:03.340 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[INFO ] 2024-02-20 20:32:05.284 [main] LoginPage - Admin| values into text box
+[INFO ] 2024-02-20 20:32:05.644 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-20 20:32:09.164 [main] Apputils - Closed the Browser
+[INFO ] 2024-02-20 20:32:09.170 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-20 20:32:14.359 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-20 20:32:14.380 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-20 20:32:14.410 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[INFO ] 2024-02-20 20:32:15.352 [main] LoginPage -  |passwordvalues into text box
+[INFO ] 2024-02-20 20:32:15.677 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-20 20:32:18.810 [main] Apputils - Closed the Browser
+[INFO ] 2024-02-20 20:32:18.814 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-20 20:32:23.803 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-20 20:32:23.818 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-20 20:32:23.849 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[INFO ] 2024-02-20 20:32:25.105 [main] LoginPage -  | values into text box
+[INFO ] 2024-02-20 20:32:25.425 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-20 20:32:28.439 [main] Apputils - Closed the Browser
+[INFO ] 2024-02-20 20:32:28.443 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-20 20:32:33.916 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-20 20:32:33.931 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-20 20:32:33.962 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[INFO ] 2024-02-20 20:32:35.005 [main] LoginPage - Hello|Hellovalues into text box
+[INFO ] 2024-02-20 20:32:35.344 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-20 20:32:38.634 [main] Apputils - Closed the Browser
+[INFO ] 2024-02-20 20:32:38.637 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-20 20:32:43.698 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-20 20:32:43.715 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-20 20:32:43.745 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[INFO ] 2024-02-20 20:32:44.863 [main] LoginPage - admin|passwordvalues into text box
+[INFO ] 2024-02-20 20:32:45.285 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-20 20:32:48.691 [main] Apputils - Closed the Browser
+[DEBUG] 2024-02-20 20:36:08.227 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-02-20 20:36:08.247 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-02-20 20:36:10.398 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-20 20:36:17.764 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-20 20:36:17.782 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-20 20:36:17.809 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[INFO ] 2024-02-20 20:36:19.794 [main] LoginPage - Admin| values into text box
+[INFO ] 2024-02-20 20:36:26.148 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-20 20:36:29.817 [main] Apputils - Closed the Browser
+[INFO ] 2024-02-20 20:36:29.821 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-20 20:36:34.805 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-20 20:36:34.817 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-20 20:36:34.848 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[INFO ] 2024-02-20 20:36:35.879 [main] LoginPage -  |passwordvalues into text box
+[INFO ] 2024-02-20 20:36:42.233 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-20 20:36:45.210 [main] Apputils - Closed the Browser
+[INFO ] 2024-02-20 20:36:45.214 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-20 20:36:50.829 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-20 20:36:50.849 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-20 20:36:50.878 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[INFO ] 2024-02-20 20:36:51.854 [main] LoginPage -  | values into text box
+[INFO ] 2024-02-20 20:36:58.200 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-20 20:37:01.227 [main] Apputils - Closed the Browser
+[INFO ] 2024-02-20 20:37:01.231 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-20 20:37:06.404 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-20 20:37:06.414 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-20 20:37:06.443 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[INFO ] 2024-02-20 20:37:07.425 [main] LoginPage - Hello|Hellovalues into text box
+[INFO ] 2024-02-20 20:37:13.790 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-20 20:37:16.999 [main] Apputils - Closed the Browser
+[INFO ] 2024-02-20 20:37:17.003 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-20 20:37:22.200 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-20 20:37:22.215 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-20 20:37:22.245 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[INFO ] 2024-02-20 20:37:23.192 [main] LoginPage - admin|passwordvalues into text box
+[INFO ] 2024-02-20 20:37:29.538 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-20 20:37:32.473 [main] Apputils - Closed the Browser
+[DEBUG] 2024-02-21 07:43:38.512 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-02-21 07:43:38.536 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-02-21 07:43:42.293 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-21 07:43:55.032 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-21 07:43:55.061 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-21 07:43:55.089 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[INFO ] 2024-02-21 07:43:58.714 [main] LoginPage - Admin| values into text box
+[INFO ] 2024-02-21 07:44:05.137 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-21 07:44:08.221 [main] Apputils - Closed the Browser
+[INFO ] 2024-02-21 07:44:08.230 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-21 07:44:13.677 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-21 07:44:13.695 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-21 07:44:13.724 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[INFO ] 2024-02-21 07:44:14.976 [main] LoginPage -  |passwordvalues into text box
+[INFO ] 2024-02-21 07:44:21.409 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-21 07:44:24.227 [main] Apputils - Closed the Browser
+[INFO ] 2024-02-21 07:44:24.233 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-21 07:44:31.062 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-21 07:44:31.077 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-21 07:44:31.105 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[INFO ] 2024-02-21 07:44:32.609 [main] LoginPage -  | values into text box
+[INFO ] 2024-02-21 07:44:39.047 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-21 07:44:41.630 [main] Apputils - Closed the Browser
+[INFO ] 2024-02-21 07:44:41.634 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-21 07:44:46.667 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-21 07:44:46.684 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-21 07:44:46.713 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[INFO ] 2024-02-21 07:44:48.193 [main] LoginPage - Hello|Hellovalues into text box
+[INFO ] 2024-02-21 07:44:54.485 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-21 07:44:57.021 [main] Apputils - Closed the Browser
+[INFO ] 2024-02-21 07:44:57.024 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-21 07:45:02.115 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-21 07:45:02.126 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-21 07:45:02.157 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[INFO ] 2024-02-21 07:45:03.248 [main] LoginPage - admin|passwordvalues into text box
+[INFO ] 2024-02-21 07:45:09.696 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-21 07:45:12.337 [main] Apputils - Closed the Browser
+[INFO ] 2024-02-21 10:41:21.990 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-21 10:41:34.593 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-21 10:41:34.628 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-21 10:41:34.656 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[DEBUG] 2024-02-21 10:41:36.568 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-02-21 10:41:36.585 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-02-21 10:41:42.693 [main] LoginPage - Admin| values into text box
+[INFO ] 2024-02-21 10:41:49.102 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-21 10:41:53.240 [main] Apputils - Closed the Browser
+[INFO ] 2024-02-21 10:43:03.943 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-21 10:43:13.556 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-21 10:43:13.586 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-21 10:43:13.617 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[DEBUG] 2024-02-21 10:43:14.645 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-02-21 10:43:14.656 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-02-21 10:43:19.274 [main] LoginPage - Admin| values into text box
+[INFO ] 2024-02-21 10:43:25.762 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-21 10:43:30.847 [main] Apputils - Closed the Browser
+[INFO ] 2024-02-21 10:44:41.184 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-21 10:44:51.901 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-21 10:44:51.933 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-21 10:44:51.961 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[DEBUG] 2024-02-21 10:44:52.861 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-02-21 10:44:52.870 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-02-21 10:44:58.542 [main] LoginPageTestCases - Entering the username and password 
+[INFO ] 2024-02-21 10:44:58.561 [main] LoginPage - Admin|Qedge123!@#values into text box
+[INFO ] 2024-02-21 10:45:04.838 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-21 10:45:06.093 [main] LoginPageTestCases - Checking Admin module is present
+[INFO ] 2024-02-21 10:45:06.450 [main] LoginPageTestCases - Logging out from the Orange HRM
+[INFO ] 2024-02-21 10:45:06.451 [main] LoginPage - We are waiting for 5 second to load the HomePage
+[INFO ] 2024-02-21 10:45:12.296 [main] LoginPage - Click on Logout
+[INFO ] 2024-02-21 10:45:13.876 [main] Apputils - Closed the Browser
+[INFO ] 2024-02-21 10:47:07.931 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-21 10:47:26.410 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-21 10:47:26.690 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-21 10:47:26.745 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[DEBUG] 2024-02-21 10:47:29.621 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-02-21 10:47:29.658 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-02-21 10:47:38.120 [main] LoginPageTestCases - Entering the username and password 
+[INFO ] 2024-02-21 10:47:38.172 [main] LoginPage - Admin|Qedge123!@#values into text box
+[INFO ] 2024-02-21 10:47:45.163 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-21 10:47:46.476 [main] LoginPageTestCases - Checking Admin module is present
+[INFO ] 2024-02-21 10:47:47.655 [main] LoginPageTestCases - Logging out from the Orange HRM
+[INFO ] 2024-02-21 10:47:47.656 [main] LoginPage - We are waiting for 5 second to load the HomePage
+[ERROR] 2024-02-21 10:47:53.184 [main] LoginPage - Element <a href="/symfony/web/index.php/auth/logout"> could not be scrolled into view
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KAMALESH', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 123.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20240213221259, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 8792, moz:profile: C:\Users\kamal\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: aa975bff-7ddf-4522-a0d2-711c2c88c940
+[INFO ] 2024-02-21 10:47:55.835 [main] Apputils - Closed the Browser
+[INFO ] 2024-02-21 10:48:46.581 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-21 10:49:00.708 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-21 10:49:00.741 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-21 10:49:00.798 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[DEBUG] 2024-02-21 10:49:01.901 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-02-21 10:49:01.911 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-02-21 10:49:09.359 [main] LoginPage - Admin|nullvalues into text box
+[INFO ] 2024-02-21 10:49:15.770 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-21 10:49:18.164 [main] Apputils - Closed the Browser
+[INFO ] 2024-02-21 10:50:27.791 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-21 10:50:41.533 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-21 10:50:41.556 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-21 10:50:41.594 [main] LoginPageTestCases - Entering the ORANGE HRM Page
+[DEBUG] 2024-02-21 10:50:43.119 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-02-21 10:50:43.148 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-02-21 10:50:50.244 [main] LoginPage - Admin|nullvalues into text box
+[INFO ] 2024-02-21 10:50:56.673 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-21 10:50:57.553 [main] LoginPage - null|passwordvalues into text box
+[INFO ] 2024-02-21 10:51:03.766 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-21 10:51:04.750 [main] LoginPage - null|nullvalues into text box
+[INFO ] 2024-02-21 10:51:10.886 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-21 10:51:11.777 [main] LoginPage - Hello|Hellovalues into text box
+[INFO ] 2024-02-21 10:51:18.032 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-21 10:51:20.102 [main] LoginPage - admin|passwordvalues into text box
+[INFO ] 2024-02-21 10:51:26.345 [main] LoginPage - Click on SignIn button
+[INFO ] 2024-02-21 10:51:30.775 [main] Apputils - Closed the Browser
+[INFO ] 2024-02-21 10:56:28.922 [main] Apputils - Instate the WebBrowser
+[INFO ] 2024-02-21 10:56:45.473 [main] Apputils - Start the WebBrowser
+[INFO ] 2024-02-21 10:56:45.505 [main] Apputils - Maximize the WebBrowse
+[INFO ] 2024-02-21 10:56:45.534 [main] LoginPageTestCases - Instating the Browser
+[INFO ] 2024-02-21 10:56:47.410 [main] LoginPageTestCases - En
+[DEBUG] 2024-02-21 10:56:52.582 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-02-21 10:56:52.594 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-02-21 10:57:00.584 [main] LoginPageTestCases - En
+[INFO ] 2024-02-21 10:57:00.641 [main] LoginPageTestCases - Entering the username and password 
+[INFO ] 2024-02-21 10:57:00.665 [main] LoginPage - Admin|Qedge123!@#values into text box
+[DEBUG] 2024-02-21 10:57:21.039 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-02-21 10:57:21.042 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-02-21 10:57:21.202 [main] LoginPageTestCases - En
+[INFO ] 2024-02-21 10:57:21.250 [main] LoginPage - Admin|nullvalues into text box
+[INFO ] 2024-02-21 10:57:42.057 [main] LoginPageTestCases - En
+[INFO ] 2024-02-21 10:57:42.074 [main] LoginPage - null|passwordvalues into text box
+[INFO ] 2024-02-21 10:58:02.225 [main] LoginPageTestCases - En
+[INFO ] 2024-02-21 10:58:02.243 [main] LoginPage - null|nullvalues into text box
+[INFO ] 2024-02-21 10:58:24.511 [main] LoginPageTestCases - En
+[INFO ] 2024-02-21 10:58:24.590 [main] LoginPage - Hello|Hellovalues into text box
+[INFO ] 2024-02-21 10:58:46.270 [main] LoginPageTestCases - En
+[INFO ] 2024-02-21 10:58:46.288 [main] LoginPage - admin|passwordvalues into text box
+[INFO ] 2024-02-21 10:59:08.842 [main] Apputils - Closed the Browser

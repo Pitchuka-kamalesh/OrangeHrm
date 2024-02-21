@@ -1,11 +1,13 @@
 package Uttils;
 
+import Orangehrm.dataexcel.ExcelData;
+
 public class ExcelUtilsDemo {
 
     public static void main(String[] args) {
-        ExcelUtillsRead excel = new ExcelUtillsRead("/src/test/resources/ExcelFiles/testdata.xlsx","LoginDetails");
-        excel.getRowCount();
-        excel.getCellDataString(0,0);
+        ExcelData excel = new ExcelData();
+        excel.testData("/src/test/resources/ExcelFiles/testdata.xlsx","LoginDetails");
+
 
     }
 }

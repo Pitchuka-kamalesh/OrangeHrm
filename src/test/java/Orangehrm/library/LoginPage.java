@@ -3,15 +3,17 @@ package Orangehrm.library;
 import Orangehrm.locators.LoginPageLocators;
 import Uttils.Apputils;
 import io.qameta.allure.Step;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 
-import java.util.Arrays;
-import java.util.List;
 import java.util.NoSuchElementException;
 
 public class LoginPage extends Apputils implements LoginPageLocators {
 
+    public static Logger LOGGER = LogManager.getLogger(LoginPage.class);
     public WebDriver driver;
 
     public LoginPage() {
@@ -20,9 +22,25 @@ public class LoginPage extends Apputils implements LoginPageLocators {
 
     @Step("Login")
     public void login(String user, String pwd) {
-
-        driver.findElement(LOGIN_USERNAME).sendKeys(user);
-        driver.findElement(LOGIN_PASSWORD).sendKeys(pwd);
+        LOGGER.info(user + "|" + pwd + "values into text box");
+        WebElement userInput = driver.findElement(LOGIN_USERNAME);
+        WebElement passwordInput = driver.findElement(LOGIN_PASSWORD);
+        if (user != null){
+            userInput.sendKeys(user);
+        }else{
+            userInput.clear();
+        }
+        if(pwd != null){
+            passwordInput.sendKeys(pwd);
+        }else{
+            passwordInput.clear();
+        }
+        try {
+            Thread.sleep(6*1000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+        LOGGER.info("Click on SignIn button");
         driver.findElement(LOGIN_LOGIN_BUTTON).click();
 
     }
@@ -31,13 +49,15 @@ public class LoginPage extends Apputils implements LoginPageLocators {
     public void logout() {
 
         try {
-            Thread.sleep(1000);
+            LOGGER.info("We are waiting for 5 second to load the HomePage");
+            Thread.sleep(5*1000);
             driver.findElement(By.id("welcome")).click();
-
             driver.findElement(By.linkText("Logout")).click();
+            LOGGER.info("Click on Logout");
 
-        } catch (InterruptedException e) {
+        } catch (Exception e) {
             System.out.println(e.getMessage());
+            LOGGER.error(e.getLocalizedMessage());
         }
 
     }
@@ -54,17 +74,14 @@ public class LoginPage extends Apputils implements LoginPageLocators {
     }
 
     @Step("Check error message is present")
-    public boolean isErrorMessageDisplayed() {
-
-        List<String> activalResults = Arrays.asList("Invalid credentials", "Username cannot be empty", "Password cannot be empty");
+    public String errorMessage() {
 
         try {
-            String observedResults = driver.findElement(LOGIN_ERROR_MESSAGE).getText();
-            return activalResults.contains(observedResults);
+            return driver.findElement(LOGIN_ERROR_MESSAGE).getText();
         } catch (NoSuchElementException e) {
             System.out.println("unable to find webelement");
         }
-        return false;
+        return null;
     }
 
     @Step("Entering ForgotPassword page and entering details {userName}")
@@ -76,14 +93,15 @@ public class LoginPage extends Apputils implements LoginPageLocators {
 
     }
 
-    public boolean isErrorMessageDisplayedInForgotPassword() {
+    public boolean isErrorMessageDisplayedInForgotPassword(String errMessage) {
+        try {
+            String[] observeredResult = driver.findElement(FORGOT_PASSWORD_ERROR_MESSAGE).getText().split("\n");
+            return errMessage.equalsIgnoreCase(observeredResult[0]);
+        } catch (Exception e) {
+            return false;
 
-        String activalResult = "Could not find a user with given details";
+        }
 
-        String[] observeredResult = driver.findElement(FORGOT_PASSWORD_ERROR_MESSAGE).getText().split("\n");
-//
-
-        return activalResult.equalsIgnoreCase(observeredResult[0]);
     }
 
 }
