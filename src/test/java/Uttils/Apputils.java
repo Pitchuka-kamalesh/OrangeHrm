@@ -32,7 +32,7 @@ public class Apputils {
         WebDriverManager.firefoxdriver().setup();
         FirefoxOptions options = new FirefoxOptions();
         options.setHeadless(true);
-        driver = new FirefoxDriver();
+        driver = new FirefoxDriver(options);
         LOGGER.info("Start the WebBrowser");
         driver.manage().deleteAllCookies();
         LOGGER.info("Maximize the WebBrowse");
