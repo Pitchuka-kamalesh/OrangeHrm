@@ -23,7 +23,7 @@ public class LoginPageTestCases extends Apputils {
         Apputils app = new Apputils();
         driver = app.launchApp();
         LOGGER.info("Instating the Browser");
-        driver.get("http://orangehrm.qedgetech.com/");
+
 
 
     }
@@ -32,6 +32,7 @@ public class LoginPageTestCases extends Apputils {
     @BeforeMethod
     public void goToUrl() {
         LOGGER.info("En");
+        driver.get("http://orangehrm.qedgetech.com/");
 
     }
 

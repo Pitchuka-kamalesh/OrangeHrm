@@ -1,0 +1,76 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 6, Errors: 0, Skipped: 0, Time elapsed: 178.274 s <<< FAILURE! - in TestSuite
+loginTestCase(Orangehrm.testcases.LoginPageTestCases)  Time elapsed: 20.374 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+Unable to locate element: #txtUsername
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KAMALESH', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 123.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20240213221259, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 4980, moz:profile: C:\Users\kamal\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: c8711c81-0240-4a1f-9ee8-dd9741ad66e8
+*** Element info: {Using=id, value=txtUsername}
+	at Orangehrm.testcases.LoginPageTestCases.loginTestCase(LoginPageTestCases.java:48)
+
+loginTestCaseInavalid(Orangehrm.testcases.LoginPageTestCases)  Time elapsed: 20.812 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+Unable to locate element: #txtUsername
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KAMALESH', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 123.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20240213221259, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 4980, moz:profile: C:\Users\kamal\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: c8711c81-0240-4a1f-9ee8-dd9741ad66e8
+*** Element info: {Using=id, value=txtUsername}
+	at Orangehrm.testcases.LoginPageTestCases.loginTestCaseInavalid(LoginPageTestCases.java:66)
+
+loginTestCaseInavalid(Orangehrm.testcases.LoginPageTestCases)  Time elapsed: 20.129 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+Unable to locate element: #txtUsername
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KAMALESH', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 123.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20240213221259, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 4980, moz:profile: C:\Users\kamal\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: c8711c81-0240-4a1f-9ee8-dd9741ad66e8
+*** Element info: {Using=id, value=txtUsername}
+	at Orangehrm.testcases.LoginPageTestCases.loginTestCaseInavalid(LoginPageTestCases.java:66)
+
+loginTestCaseInavalid(Orangehrm.testcases.LoginPageTestCases)  Time elapsed: 22.269 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+Unable to locate element: #txtUsername
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KAMALESH', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 123.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20240213221259, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 4980, moz:profile: C:\Users\kamal\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: c8711c81-0240-4a1f-9ee8-dd9741ad66e8
+*** Element info: {Using=id, value=txtUsername}
+	at Orangehrm.testcases.LoginPageTestCases.loginTestCaseInavalid(LoginPageTestCases.java:66)
+
+loginTestCaseInavalid(Orangehrm.testcases.LoginPageTestCases)  Time elapsed: 21.648 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+Unable to locate element: #txtUsername
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KAMALESH', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 123.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20240213221259, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 4980, moz:profile: C:\Users\kamal\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: c8711c81-0240-4a1f-9ee8-dd9741ad66e8
+*** Element info: {Using=id, value=txtUsername}
+	at Orangehrm.testcases.LoginPageTestCases.loginTestCaseInavalid(LoginPageTestCases.java:66)
+
+loginTestCaseInavalid(Orangehrm.testcases.LoginPageTestCases)  Time elapsed: 20.207 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+Unable to locate element: #txtUsername
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KAMALESH', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.21'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 123.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20240213221259, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 4980, moz:profile: C:\Users\kamal\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: c8711c81-0240-4a1f-9ee8-dd9741ad66e8
+*** Element info: {Using=id, value=txtUsername}
+	at Orangehrm.testcases.LoginPageTestCases.loginTestCaseInavalid(LoginPageTestCases.java:66)
+
